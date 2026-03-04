@@ -11,4 +11,4 @@
 | Skip media files | false |
 | LMSA country | Mexico,China |
 | Run | #51 |
-| Status | 🔄 Crawling in progress… |
+| Status | ✅ Crawl complete |
